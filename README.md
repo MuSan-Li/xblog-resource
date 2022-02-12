@@ -1,2 +1,3 @@
-# xblog-resource
-小小博客图床
+# There's nothing here.
+
+Blog static resource hosting.
